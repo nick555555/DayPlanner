@@ -1,1 +1,3 @@
 # DayPlanner
+
+A day planner that displays date, shows current hour and stores text in segmented rows. Includes: index.html, script.js, and style.css. Uses Bootstrap for styling and Moments.js for displaying the date and showing the current hour. Displays past hour segments in grey, current in red and future in green. Inputing text into a segment and pushing the adjoining save button will store the text in local storage. The local store values are displayed in corresponding hour segments.
